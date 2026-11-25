@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /temp/
+Disallow: /cache/
+
+Sitemap: https://novosib-laptop-fix.ru/sitemap.xml
