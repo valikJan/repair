@@ -4,4 +4,4 @@ Disallow: /admin/
 Disallow: /temp/
 Disallow: /cache/
 
-Sitemap: https://novosib-laptop-fix.ru/sitemap.xml
+Sitemap: https://valikjan.github.io/repair/
